@@ -17,4 +17,5 @@ Via [Composer][]:
 ![Capturar](https://user-images.githubusercontent.com/86434489/181349049-18c5caf1-4dcf-4e80-b520-2304f6d665fe.PNG)
 
 ### resultado:
-![print2](https://user-images.githubusercontent.com/86434489/181348743-de4cd0a9-0edf-4e9d-9743-1f69fa31ebe4.png)
+
+![print3](https://user-images.githubusercontent.com/86434489/181351773-398b1dc1-cbf1-4252-9942-3fed002638b7.png)
